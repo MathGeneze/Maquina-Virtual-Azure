@@ -7,7 +7,7 @@ Este repositório faz parte de um desafio prático na plataforma de ensino **DIO
 Abaixo você encontrará Resumos, Anotações e Dicas para melhor aprendizado e futuras aplicações na Azure.
 
 <!----------- Sumário ---------->
-## <a id="sumario">📃 Sumário</a>
+## 🗂️ Sumário
 - [🌐 O que é o Microsoft Azure?](#o-que-é-o-microsoft-azure)
 - [☁️ Passo a Passo: Criando uma Máquina Virtual](#passo-a-passo-criando-uma-máquina-virtual)
 - [📈 Dicas Importantes](#dicas-importantes)
