@@ -30,9 +30,9 @@ Destaques da plataforma:
 
 3. Definindo as configurações da Máquina Virtual
     * Nome da VM (Ex: `vm-projeto-dados`);
-    * Localização (Ex: Brasil Sul);
-    * Sistema Operacional (Ex: Ubuntu Server 22.04 LTS ou Debian 11);
-    * Configuração de Hardware (Ex: Standard B2s)
+    * Localização (Ex: Brazil South);
+    * Sistema Operacional (Ex: Ubuntu Server 24.04 LTS);
+    * Configuração de Hardware (Ex: Standard D2s)
 
 5. Método de Autenticação  
    * Escolher entre **senha** ou **chave SSH** (Ideal para VM's Linux).
