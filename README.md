@@ -30,8 +30,8 @@ Destaques da plataforma:
 
 2. Clique no Ícone *"Máquinas Virtuais"*  
    * **Criar > Máquina Virtual do Azure**
+   * 
   <img src="https://github.com/user-attachments/assets/f5694bfe-3472-4159-b6ed-28bedb784324" width="430"/>
-
 
 3. Definindo as configurações da Máquina Virtual
     * Nome da VM (Ex: `vm-projeto-dados`);
