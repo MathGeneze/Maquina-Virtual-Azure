@@ -25,8 +25,8 @@ Destaques da plataforma:
 1. Acesse o **Portal Azure** 
    * Site: https://portal.azure.com
 
-2. Crie um Novo Recurso  
-   * Vá para **"Máquinas Virtuais"** e clique em **"Adicionar"**.
+2. Clique no Ícone *"Máquinas Virtuais"*  
+   * **Criar > Máquina Virtual do Azure**
 
 3. Definindo as configurações da Máquina Virtual
     * Nome da VM (Ex: `vm-projeto-dados`);
