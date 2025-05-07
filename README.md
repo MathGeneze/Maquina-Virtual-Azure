@@ -8,10 +8,10 @@ Abaixo você encontrará Resumos, Anotações e Dicas para melhor aprendizado e 
 
 <!----------- Sumário ---------->
 ## 🗂️ Sumário
-- [🌐 O que é o Microsoft Azure?](#o-que-é-o-microsoft-azure)
-- [☁️ Passo a Passo: Criando uma Máquina Virtual](#passo-a-passo-criando-uma-máquina-virtual)
-- [📈 Dicas Importantes](#dicas-importantes)
-- [💡 Conclusão do Projeto](#conclusão-do-projeto)
+- [➥ O que é o Microsoft Azure?](#o-que-é-o-microsoft-azure)
+- [➨ Passo a Passo: Criando uma Máquina Virtual](#passo-a-passo-criando-uma-máquina-virtual)
+- [➨ Dicas Importantes](#dicas-importantes)
+- [➦ Conclusão do Projeto](#conclusão-do-projeto)
 
 <!----------- O que é o Microsoft Azure? ---------->
 ## <a id="o-que-é-o-microsoft-azure">🌐 O que é o Microsoft Azure?</a>
